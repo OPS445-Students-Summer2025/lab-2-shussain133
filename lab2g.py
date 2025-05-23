@@ -4,8 +4,6 @@
 # Date Created: 2025/05/23
 
 import sys
-
-
 if len(sys.argv) > 1:
     timer = int(sys.argv[1])  
 else:
