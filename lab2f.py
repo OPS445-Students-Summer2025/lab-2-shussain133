@@ -4,7 +4,6 @@
 # Date Created: 2025/05/23
 
 import sys
-
 timer = int(sys.argv[1])  
 
 while timer != 0:
